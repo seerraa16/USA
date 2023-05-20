@@ -9,7 +9,7 @@
 
 ##### 2 - Identifique si es necesaria una limpieza de datos y/o completar valores perdidos.
 
-##### 3 - Obtenga las correlaciones entre variables y analice si se pueden observar algunas relaciones interesantes.
+##### *3 - Obtenga las correlaciones entre variables y analice si se pueden observar algunas relaciones interesantes.
 
 ##### 4 - Grafique todo lo que considere oportuno.
 
